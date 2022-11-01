@@ -8,7 +8,6 @@ public class main {
 		
 		discoTitanic.addAuthor(rpGheo);
 		int indexChapterOne = discoTitanic.createChapter("Capitolul 1");
-		int indexChapterTwo = discoTitanic.createChapter("Capitolul 2");
 		Chapter chp1 = discoTitanic.getChapter(indexChapterOne);
 		int indexSubChapterOneOne= chp1.createSubChapter("Subcapitolul 1.1");
 		SubChapter scOneOne = chp1.getSubChapter(indexSubChapterOneOne);
