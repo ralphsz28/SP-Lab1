@@ -23,6 +23,7 @@ public class SubChapter {
 	}
 	
 	public void print() {
+		System.out.println("SubChapter: " + name);
 		for (int i=0 ;i<content.size();i++) {
 			content.get(i).print();
 		}
