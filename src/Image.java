@@ -9,7 +9,7 @@ public class Image implements Element {
 
 	@Override
 	public void print() {
-		System.out.println("Image with name:" + imageName);
+		System.out.println("Image with name: " + imageName);
 	}
 
 }

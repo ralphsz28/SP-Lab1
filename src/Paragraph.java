@@ -9,7 +9,7 @@ public class Paragraph implements Element {
 
 	@Override
 	public void print() {
-		System.out.println("Paragraph:" + text);
+		System.out.println("Paragraph: " + text);
 		
 	}
 
