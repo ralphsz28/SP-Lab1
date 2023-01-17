@@ -11,3 +11,6 @@ copy/paste again....
 - in clasa book, cand printezi.... pt fiecare chapter apeleaza metoda print, si de asemenea sa printezi si autorul, si titlul
 - in clasa chapter, trebuie sa ai metoda de print unde printezi titlul si apelezi pt subchapters
 Nota 8
+
+https://github.com/ralphsz28/SP-Lab1/tree/5e69dae12f8a8508253da85e040d6a09c3f9bf43
+# Nota finala: 7
